@@ -5,12 +5,10 @@ Here is a simple beginner's guide for Python 3.v. There're many IDE for using Py
 
 
 # Requirements 
-======
 * Language: Python 3.x
 * Editor: [Jupyter Notebook] (https://www.anaconda.com/products/individual)
 
 # Subjects
-======
 1. Introduction to Python
   * Data types
   * Operations
