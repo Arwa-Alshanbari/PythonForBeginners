@@ -11,19 +11,21 @@ Here is a simple beginner's guide for Python 3.v. There're many IDE for using Py
 # Subjects
 1. Introduction to Python
 2. Strings
-3. Lists
-4. Tuples
-5. Dictionary 
-6. Sets
-7. Logic
-8. While loop
-9. For loop
-10. Files I/O
-11. Functions
-12. Lamda
-13. Scopes
-14. Object Orieanted Programmeing OOP
-15. Modules and Pacakeges 
-16. Decorators 
-17. Datetime
-18. Error handling
+3. Lists-Tuples
+4. Dictionary 
+5. Sets
+6. Logic
+7. While loop
+8. For loop
+9. Files I/O
+10. Functions
+11. Lamda 
+12. Variable Scopes
+13. Object Orieanted Programmeing OOP
+14. Modules and Pacakeges
+15. Decorators  
+16. Generators
+17. Collections of Modules
+18. Datetime
+19. Error handling
+20. Input Keyword 'exercises'
