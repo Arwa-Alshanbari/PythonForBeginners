@@ -10,10 +10,6 @@ Here is a simple beginner's guide for Python 3.v. There're many IDE for using Py
 
 # Subjects
 1. Introduction to Python
-    * Data types
-    * Operations
-    * Variables
-    * Input keyword
 2. Strings
 3. Lists
 4. Tuples
